@@ -1,0 +1,51 @@
+{
+    "wishlisted_cars": [
+      {
+        "brand": "Tata",
+        "desc": "Tata Nexon with all original documents",
+        "km": 8000,
+        "price": 800000,
+        "type": "AMT",
+        "year": 2017,
+        "id": 2
+      },
+      {
+        "brand": "Tata",
+        "desc": "Tata Nexon with all original documents",
+        "km": 8000,
+        "price": 800000,
+        "type": "AMT",
+        "year": 2017,
+        "id": 3
+      },
+      {
+        "brand": "Tata",
+        "desc": "Tata Nexon with all original documents",
+        "km": 8000,
+        "price": 800000,
+        "type": "AMT",
+        "year": 2017,
+        "id": 4
+      }
+    ],
+    "cars": [
+      {
+        "id": 2,
+        "brand": "maruti",
+        "type": "AMT",
+        "year": 2017,
+        "km": 5000,
+        "desc": "Tata Nexon with all original documents",
+        "price": 800000
+      },
+      {
+        "id": 4,
+        "brand": "Tata",
+        "type": "AMT",
+        "year": 2017,
+        "km": 8000,
+        "desc": "Tata Nexon with all original documents",
+        "price": 600000
+      }
+    ]
+  }
